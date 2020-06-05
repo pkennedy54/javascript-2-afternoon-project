@@ -218,8 +218,6 @@ for(var i = 0; i < num2; i++){
   Return the longer of the two arrays.
 */
 
-//Code Here
-
 
 
 /*
