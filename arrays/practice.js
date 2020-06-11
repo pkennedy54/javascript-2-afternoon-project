@@ -50,10 +50,10 @@ var family = ['Tyler', 'Jordyn', 'Ryan', 'Chelsey', 'Ireland'];
 */
 
 function looper (family) {
-  for(let i =0; i <= family.length; i++)
+  for(let i =0; i < family.length; i++)
 alert (family[i])
 }
-looper
+
 
 
 ////////// PROBLEM 4 //////////
